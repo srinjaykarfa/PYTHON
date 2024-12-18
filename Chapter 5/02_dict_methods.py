@@ -1,15 +1,15 @@
 marks = {
-    "Harry": 100,
+    "Srinjay": 100,
     "Shubham": 56,
     "Rohan": 23,
-    0: "Harry"
+    0: "Srinjay"
 }
 
 # print(marks.items())
 # print(marks.keys())
 # print(marks.values())
-# marks.update({"Harry": 99, "Renuka": 100})
+# marks.update({"Srinjay": 99, "Renuka": 100})
 # print(marks)
 
-print(marks.get("Harry2")) # Prints None
-print(marks["Harry2"]) # Returns an error
+print(marks.get("Srinjay2")) # Prints None
+print(marks["Srinjay2"]) # Returns an error
